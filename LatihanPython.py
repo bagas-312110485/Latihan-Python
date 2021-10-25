@@ -1,8 +1,8 @@
-print("**********")
+print("******************************")
 print("= NAMA    : BAGAS ARI PRADANA ")
 print("= NIM     : 312110485         ")
 print("= KELAS   : TI.21 C.5         ")
-print("**********")
+print("******************************")
 
 print("Please enter your full name : ")
 fullname=input()
