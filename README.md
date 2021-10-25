@@ -21,3 +21,14 @@ Program Penjumblahan Pembagian Penggabungan
 # LatihanPython
 
 Mambuat program untuk menginputkan biodata terdiri dari nama lenglkap,nama panggilan,NPM,tempat lahir,tanggal,lahir,telpon,alamat
+
+# Code
+
+![Screenshot (82)](https://user-images.githubusercontent.com/92848203/138767036-142d86ff-e15b-4ad8-81e4-11fa4f056405.png)
+
+Lanjutan dari code di atas 
+![Screenshot (84)](https://user-images.githubusercontent.com/92848203/138767048-a41c9779-6966-4017-8020-5038c1a9d78c.png)
+
+# Output dari code LatihanPython
+
+
