@@ -31,5 +31,6 @@ Mambuat program untuk menginputkan biodata terdiri dari nama lenglkap,nama pangg
 
 ![Screenshot (89)](https://user-images.githubusercontent.com/92848203/138770825-c5358be7-0547-4034-8f3d-adea5ea26edb.jpg)
 
-Pada kotak berwarna merah silakan isi biodata kamu dengan sesuai
-lalu pada kotak berwarna kuning adalah output dari program 
+Pada kotak berwarna merah silakan isi biodata kamu dengan sesuai,lalu pada kotak berwarna kuning adalah output dari program 
+
+# Selesai
