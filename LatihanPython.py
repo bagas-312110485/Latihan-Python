@@ -23,7 +23,7 @@ no=int(input())
 print("Masukan alamat : ")
 alamat=input()
 
-dob=2021-year
+dob=2021-tahun
 
 print("\n\n Assalamu'alaikum. ")
 print(f"Let me introduce myself, my name is {Namalengkap}, but you can call me {panggilan}, my NPM {npm}, I was born in {pob} and i am {dob} years old, I am very glad if you want to invite my house in {alamat}, So don't forget to call me before with the number {no}, \n\n Thank you ")
